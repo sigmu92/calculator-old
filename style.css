@@ -67,3 +67,8 @@ button{
     border-radius: 5px;
     font-size: 16px;
 }
+
+h1{
+    margin: auto;
+    position: fixed;
+}
